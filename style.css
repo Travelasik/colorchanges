@@ -1,0 +1,24 @@
+Body{
+    Margin:0;
+    Padding:0; 
+}
+
+button {
+    Margin-top:36vh;
+    Padding:10vh;
+    Background-color: transparent;
+    Border: 2vh solid black;
+    Font-size:6vh; 
+}
+    
+.container{
+    Display: flex;
+    Flex-direction: column;
+    Align-items: center;
+    Height:100vh; 
+}
+
+.color-palette {
+    Display: flex;
+}
+    
